@@ -75,13 +75,12 @@ publication_category:
   preprints:
     title: "Preprints"
 
-site_settings:
-  teaser                   :
-  breadcrumbs              : false
-  words_per_minute         : 160
-  future                   : true
-  read_more                : "disabled"
-  talkmap_link             : false
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+talkmap_link             : false
 
 comments:
   provider               :
